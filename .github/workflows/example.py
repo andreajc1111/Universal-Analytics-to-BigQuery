@@ -7,7 +7,7 @@ import os
 
 # Configuration variables for Google Analytics and BigQuery
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
-KEY_FILE_LOCATION = 'C:\Users\jason.andrea\Downloads\eco-hangar-424719-i8-d75a322c5dfc.json'  # Path to your Google Cloud service account key file
+KEY_FILE_LOCATION = 'C:\\Users\\jason.andrea\\Downloads\\eco-hangar-424719-i8-d75a322c5dfc.json'  # Path to your Google Cloud service account key file
 VIEW_ID = '153456266'  # Your Google Analytics View ID
 BIGQUERY_PROJECT = 'eco-hangar-424719-i8'  # Your Google Cloud Project ID
 BIGQUERY_DATASET = 'Google_UA'  # BigQuery Dataset name where the data will be stored
